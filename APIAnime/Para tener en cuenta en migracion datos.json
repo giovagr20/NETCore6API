@@ -1,0 +1,4 @@
+﻿{
+  "migrationDB": "PM> add-migration InitialDb",
+  "updateDatabase": "<PM> update-database"
+}
